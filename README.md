@@ -1,5 +1,6 @@
 aim- to study tuple in python
 
+Theory: A tuple is a collection data type in Python used to store multiple items in a single variable. Tuples are ordered and allow duplicate values, but they are immutable, meaning elements cannot be modified after creation. Tuple elements can be accessed using indexing and slicing. Python also supports tuple unpacking, where tuple values are assigned to multiple variables in a single statement. Tuples provide built-in methods like count() and index() for basic operations.
 
 Algorithm: Tuple Unpacking and Distinction Check
 
